@@ -26,8 +26,8 @@ Android Development Engineer
 Android Development Engineer  
 
 ####Links
-Blog    <http://www.winfirm.cn>  
-GitHub  <https://github.com/panxw>  
+Blog    <http://leftpi.info>  
+GitHub  <https://github.com/dicx>  
 
 <!-- Blog Comments -->
 <div class="media">
